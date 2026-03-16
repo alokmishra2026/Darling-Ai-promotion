@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom'
+import { Music2, Youtube, Instagram, Github, Facebook } from 'lucide-react'
+
 const socialLinks = [
   { icon: Youtube, color: '#ff0000', href: 'https://youtube.com/@mishraji.up36' },
   { icon: Instagram, color: '#e1306c', href: 'https://instagram.com/mishraji.up36' },
