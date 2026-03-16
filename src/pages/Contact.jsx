@@ -39,7 +39,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-gray-500 text-xs font-bold uppercase tracking-widest mb-1">Call Support</h4>
-                    <p className="text-white text-lg font-bold">+91 0000 000 000</p>
+                    <p className="text-white text-lg font-bold">+91 87951 12276</p>
+                    <p className="text-white text-lg font-bold">+91 78000 19720</p>
                     <p className="text-gray-600 text-xs italic mt-1">Founders Available: 10AM - 8PM</p>
                   </div>
                 </div>
